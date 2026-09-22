@@ -1,0 +1,46 @@
+{
+  "licenses": {
+    "kenney": {
+      "name": "CC0 1.0 Universal (Public Domain Dedication)",
+      "spdx": "CC0-1.0",
+      "attributionRequired": false,
+      "commercialUse": true,
+      "author": "Kenney (https://kenney.nl)",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "kaykit": {
+      "name": "CC0 1.0 Universal (Public Domain Dedication)",
+      "spdx": "CC0-1.0",
+      "attributionRequired": false,
+      "commercialUse": true,
+      "author": "Kay Lousberg (https://kaylousberg.com/game-assets)",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "quaternius": {
+      "name": "CC0 1.0 Universal (Public Domain Dedication)",
+      "spdx": "CC0-1.0",
+      "attributionRequired": false,
+      "commercialUse": true,
+      "author": "Quaternius (https://quaternius.com)",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "polypizza": {
+      "name": "CC0 1.0 (filtered) — models with any other licence are excluded",
+      "spdx": "CC0-1.0",
+      "attributionRequired": false,
+      "commercialUse": true,
+      "author": "various (https://poly.pizza)",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  },
+  "sources": {
+    "kenney": {
+      "homepage": "https://kenney.nl/assets/category:3D",
+      "note": "50 official 3D kits. Downloads are scraped from each kit page; only the pack's OBJ deliverable is kept (OBJ + MTL + referenced PNG)."
+    },
+    "kaykit": {
+      "homepage": "https://kaylousberg.com/game-assets",
+      "note": "CC0 mirror of the KayKit collection; only the OBJ deliverable is kept."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+# kenney/car-kit — 50 models
+
+| model | tri | groups | size (blocks) | textured |
+|---|---|---|---|---|
+| `ambulance` | 2804 | 7 | 1.50×1.80×3.25 | yes |
+| `box` | 248 | 1 | 0.71×0.71×0.71 | yes |
+| `cone` | 344 | 1 | 0.48×0.59×0.48 | yes |
+| `cone-flat` | 344 | 1 | 0.48×0.28×0.48 | yes |
+| `debris-bolt` | 72 | 1 | 0.17×0.26×0.20 | yes |
+| `debris-bumper` | 232 | 1 | 1.30×0.40×0.45 | yes |
+| `debris-door` | 136 | 1 | 0.19×0.90×0.80 | yes |
+| `debris-door-window` | 148 | 1 | 0.19×0.90×0.80 | yes |
+| `debris-drivetrain` | 824 | 1 | 1.20×0.30×1.92 | yes |
+| `debris-drivetrain-axle` | 400 | 1 | 1.20×0.30×0.35 | yes |
+| `debris-nut` | 80 | 1 | 0.17×0.10×0.20 | yes |
+| `debris-plate-a` | 80 | 1 | 0.90×0.10×0.90 | yes |
+| `debris-plate-b` | 88 | 1 | 0.90×0.20×0.90 | yes |
+| `debris-plate-small-a` | 56 | 1 | 0.45×0.10×0.45 | yes |
+| `debris-plate-small-b` | 88 | 1 | 0.45×0.20×0.45 | yes |
+| `debris-spoiler-a` | 96 | 1 | 1.10×0.30×0.24 | yes |
+| `debris-spoiler-b` | 176 | 1 | 1.00×0.35×0.34 | yes |
+| `debris-tire` | 576 | 1 | 0.35×0.60×0.60 | yes |
+| `delivery` | 2476 | 6 | 1.50×1.65×3.25 | yes |
+| `delivery-flat` | 2574 | 5 | 1.50×1.35×3.25 | yes |
+| `firetruck` | 2767 | 6 | 1.50×1.70×3.40 | yes |
+| `garbage-truck` | 3124 | 7 | 1.60×1.60×3.45 | yes |
+| `hatchback-sports` | 2088 | 5 | 1.30×1.10×2.85 | yes |
+| `kart-oobi` | 3464 | 6 | 0.97×1.33×1.43 | yes |
+| `kart-oodi` | 3306 | 6 | 0.97×1.33×1.43 | yes |
+| `kart-ooli` | 3286 | 6 | 0.97×1.33×1.43 | yes |
+| `kart-oopi` | 3306 | 6 | 0.97×1.33×1.43 | yes |
+| `kart-oozi` | 3306 | 6 | 0.97×1.33×1.43 | yes |
+| `police` | 2304 | 6 | 1.50×1.30×3.10 | yes |
+| `race` | 1952 | 5 | 1.30×0.73×2.56 | yes |
+| `race-future` | 2068 | 5 | 1.20×0.83×2.66 | yes |
+| `sedan` | 2032 | 5 | 1.50×1.30×2.55 | yes |
+| `sedan-sports` | 2088 | 6 | 1.30×1.10×2.55 | yes |
+| `suv` | 2474 | 6 | 1.50×1.30×2.70 | yes |
+| `suv-luxury` | 2086 | 5 | 1.50×1.30×2.85 | yes |
+| `taxi` | 2072 | 5 | 1.50×1.50×2.75 | yes |
+| `tractor` | 2044 | 5 | 1.34×1.60×2.20 | yes |
+| `tractor-police` | 2278 | 6 | 1.34×1.70×2.30 | yes |
+| `tractor-shovel` | 2646 | 6 | 1.66×1.51×2.47 | yes |
+| `truck` | 2082 | 5 | 1.50×1.30×2.95 | yes |
+| `truck-flat` | 2488 | 5 | 1.50×1.30×2.75 | yes |
+| `van` | 2082 | 5 | 1.50×1.35×2.75 | yes |
+| `wheel-dark` | 664 | 1 | 0.40×0.60×0.60 | yes |
+| `wheel-default` | 664 | 1 | 0.40×0.60×0.60 | yes |
+| `wheel-racing` | 664 | 1 | 0.40×0.60×0.60 | yes |
+| `wheel-tractor-back` | 856 | 1 | 0.54×0.88×0.88 | yes |
+| `wheel-tractor-dark-back` | 856 | 1 | 0.54×0.88×0.88 | yes |
+| `wheel-tractor-dark-front` | 664 | 1 | 0.37×0.54×0.54 | yes |
+| `wheel-tractor-front` | 664 | 1 | 0.37×0.54×0.54 | yes |
+| `wheel-truck` | 856 | 1 | 0.35×0.60×0.60 | yes |

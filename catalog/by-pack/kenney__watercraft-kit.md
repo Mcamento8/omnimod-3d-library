@@ -1,0 +1,50 @@
+# kenney/watercraft-kit — 46 models
+
+| model | tri | groups | size (blocks) | textured |
+|---|---|---|---|---|
+| `arrow` | 124 | 1 | 2.00×0.60×3.00 | yes |
+| `arrow-standing` | 80 | 1 | 0.60×2.00×3.00 | yes |
+| `boat-fan` | 512 | 2 | 1.78×2.19×2.87 | yes |
+| `boat-fishing-small` | 474 | 1 | 1.78×2.60×3.87 | yes |
+| `boat-house-a` | 816 | 1 | 2.68×2.17×4.64 | yes |
+| `boat-house-b` | 760 | 1 | 2.68×2.20×5.55 | yes |
+| `boat-house-c` | 904 | 1 | 2.68×3.00×5.15 | yes |
+| `boat-house-d` | 1100 | 1 | 2.68×3.44×4.64 | yes |
+| `boat-row-large` | 292 | 2 | 2.75×0.85×2.85 | yes |
+| `boat-row-small` | 280 | 2 | 2.75×0.85×2.37 | yes |
+| `boat-sail-a` | 596 | 2 | 1.78×4.74×3.77 | yes |
+| `boat-sail-b` | 680 | 2 | 1.78×4.48×4.07 | yes |
+| `boat-speed-a` | 312 | 1 | 1.78×1.50×3.37 | yes |
+| `boat-speed-b` | 296 | 1 | 1.78×1.59×3.29 | yes |
+| `boat-speed-c` | 308 | 1 | 1.78×1.30×3.17 | yes |
+| `boat-speed-d` | 500 | 1 | 2.00×1.20×3.87 | yes |
+| `boat-speed-e` | 530 | 1 | 2.00×1.46×2.87 | yes |
+| `boat-speed-f` | 468 | 1 | 2.20×1.20×2.87 | yes |
+| `boat-speed-g` | 272 | 1 | 1.78×1.30×3.81 | yes |
+| `boat-speed-h` | 360 | 1 | 1.78×1.25×3.67 | yes |
+| `boat-speed-i` | 272 | 1 | 1.78×1.70×3.87 | yes |
+| `boat-speed-j` | 356 | 1 | 1.78×1.25×4.27 | yes |
+| `boat-tow-a` | 1152 | 1 | 2.88×3.33×6.12 | yes |
+| `boat-tow-b` | 1176 | 1 | 2.88×3.06×6.12 | yes |
+| `boat-tug-a` | 942 | 1 | 1.78×2.24×3.47 | yes |
+| `boat-tug-b` | 742 | 1 | 1.78×2.24×2.87 | yes |
+| `boat-tug-c` | 394 | 1 | 1.78×1.80×2.87 | yes |
+| `buoy` | 236 | 1 | 0.93×1.84×0.93 | yes |
+| `buoy-flag` | 436 | 1 | 0.93×2.72×1.29 | yes |
+| `cargo-container-a` | 320 | 1 | 1.38×1.10×2.76 | yes |
+| `cargo-container-b` | 320 | 1 | 1.38×1.10×2.76 | yes |
+| `cargo-container-c` | 320 | 1 | 1.38×1.10×2.76 | yes |
+| `cargo-pile-a` | 352 | 1 | 2.54×1.20×2.75 | yes |
+| `cargo-pile-b` | 704 | 1 | 3.05×1.20×2.97 | yes |
+| `gate` | 208 | 1 | 6.20×4.65×1.20 | yes |
+| `gate-finish` | 208 | 1 | 6.20×4.65×1.20 | yes |
+| `ramp` | 256 | 1 | 2.73×1.14×2.81 | yes |
+| `ramp-wide` | 256 | 1 | 5.14×1.14×2.81 | yes |
+| `ship-cargo-a` | 1640 | 4 | 3.92×3.38×10.55 | yes |
+| `ship-cargo-b` | 1348 | 3 | 3.92×3.30×10.55 | yes |
+| `ship-cargo-c` | 724 | 1 | 3.92×2.59×10.55 | yes |
+| `ship-large` | 3074 | 6 | 4.80×9.96×13.10 | yes |
+| `ship-ocean-liner` | 5592 | 1 | 4.76×8.93×21.28 | yes |
+| `ship-ocean-liner-small` | 3500 | 1 | 4.76×8.93×15.20 | yes |
+| `ship-small` | 2822 | 6 | 4.80×9.96×10.60 | yes |
+| `ship-small-ghost` | 2788 | 6 | 4.80×9.96×10.60 | yes |

@@ -1,0 +1,13 @@
+# Never let git rewrite line endings or "fix" these binaries.
+# A pure `* -text` keeps every file byte-identical to what was downloaded and
+# measured, so the SHA-256 recorded in the catalogue stays valid after a clone.
+* -text
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+
+# The generated catalogue is large and machine-read; keep its diffs out of the way.
+catalog/index.min.json -diff
+catalog/models.jsonl -diff
